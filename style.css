@@ -192,6 +192,9 @@ html {
     .title-des .tag{
         width: 4rem;
     }
+    .title{
+        font-size: 1rem;
+    }
     .right{
         padding: 1rem;
         width: 100%;
@@ -229,6 +232,12 @@ html {
     .right-post{
         width: 100%;
         height: 100%;
+    }
+    .title-des .title{
+        font-size: 1.4rem;
+    }
+    .title{
+        font-size: 1.2 rem;
     }
     
   }
