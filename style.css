@@ -186,6 +186,12 @@ html {
         width: 100%;
         height: 300px;
     }
+    .title-des h2{
+        font-size: calc(1rem);
+    }
+    .title-des .tag{
+        width: 4rem;
+    }
     .right{
         padding: 1rem;
         width: 100%;
